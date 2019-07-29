@@ -1,202 +1,55 @@
 {
 "items":[
-    {
-        "B07G25SD1P",
-        "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/41-vnHIk0lL._SL75_.jpg",
-        "161711",
-        "https:\/\/www.amazon.com\/AMD-Threadripper-2990WX-Processor-YD299XAZAFWOF\/dp\/B07G25SD1P?SubscriptionId=AKIAJXBTEUA4IXEASH6Q&tag=cgdirector-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07G25SD1P",
-        "AMD Ryzen Threadripper 2990WX Processor (YD299XAZAFWOF)",
-        "2019-07-21T05:00:01Z",
-        "https:\/\/www.cgdirector.com\/recommends\/amd-ryzen-threadripper-2990wx-processor-yd299xazafwof\/"
-    },
-    {
-        "B07JBQJ1D9",
-        "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/41Czg9goFbL._SL75_.jpg",
-        "105948",
-        "https:\/\/www.amazon.com\/AMD-Threadripper-48-Thread-Processor-YD297XAZAFWOF\/dp\/B07JBQJ1D9?SubscriptionId=AKIAJXBTEUA4IXEASH6Q&tag=cgdirector-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07JBQJ1D9",
-        "AMD Ryzen Threadripper 2970WX (24-Core\/48-Thread) Processor 4.2 GHz Max Boost 76MB Cache (YD297XAZAFWOF)",
-        "2019-07-21T05:00:02Z",
-        "https:\/\/www.cgdirector.com\/recommends\/amd-ryzen-threadripper-2970wx-24-core-48-thread-processor-4-2-ghz-max-boost-76mb-cache-yd297xazafwof\/"
-    },
-    {
-        "B07GFN6CVF",
-        "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/41PpwEHzHOL._SL75_.jpg",
-        "65849",
-        "https:\/\/www.amazon.com\/AMD-Ryzen-Threadripper-Processor-YD295XA8AFWOF\/dp\/B07GFN6CVF?psc=1&SubscriptionId=AKIAJXBTEUA4IXEASH6Q&tag=cgdirector-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07GFN6CVF",
-        "AMD Ryzen Threadripper 2950X Processor (YD295XA8AFWOF)",
-        "2019-07-21T05:00:02Z",
-        "https:\/\/www.cgdirector.com\/recommends\/amd-ryzen-threadripper-2950x-processor-yd295xa8afwof\/"
-    },
-    {
-        "B07JDF4QP2",
-        "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/412uGs8dJhL._SL75_.jpg",
-        "50949",
-        "https:\/\/www.amazon.com\/AMD-Threadripper-24-Thread-Processor-YD292XA8AFWOF\/dp\/B07JDF4QP2?SubscriptionId=AKIAJXBTEUA4IXEASH6Q&tag=cgdirector-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07JDF4QP2",
-        "AMD Ryzen Threadripper 2920X (12-Core\/24-Thread) Processor 4.3 GHz Max Boost 38MB Cache (YD292XA8AFWOF)",
-        "2019-07-21T05:00:03Z",
-        "https:\/\/www.cgdirector.com\/recommends\/amd-ryzen-threadripper-2920x-12-core-24-thread-processor-4-3-ghz-max-boost-38mb-cache-yd292xa8afwof\/"
-    },
-    {
-        "B074CBH3R4",
-        "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/51hzN4DjiDL._SL75_.jpg",
-        "47700",
-        "https:\/\/www.amazon.com\/AMD-Threadripper-32-thread-Processor-YD195XA8AEWOF\/dp\/B074CBH3R4?psc=1&SubscriptionId=AKIAJXBTEUA4IXEASH6Q&tag=cgdirector-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B074CBH3R4",
-        "AMD Ryzen Threadripper 1950X (16-core\/32-thread) Desktop Processor (YD195XA8AEWOF)",
-        "2019-07-21T05:00:03Z",
-        "https:\/\/www.cgdirector.com\/recommends\/amd-ryzen-threadripper-1950x-16-core-32-thread-desktop-processor-yd195xa8aewof\/"
-    },
-    {
-        "B074CBJHCT",
-        "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/5149290vQyL._SL75_.jpg",
-        "26742",
-        "https:\/\/www.amazon.com\/AMD-Threadripper-24-thread-Processor-YD192XA8AEWOF\/dp\/B074CBJHCT?psc=1&SubscriptionId=AKIAJXBTEUA4IXEASH6Q&tag=cgdirector-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B074CBJHCT",
-        "AMD Ryzen Threadripper 1920X (12-core\/24-thread) Desktop Processor (YD192XA8AEWOF)",
-        "2019-07-21T05:00:04Z",
-        "https:\/\/www.cgdirector.com\/recommends\/amd-ryzen-threadripper-1920x-12-core-24-thread-desktop-processor-yd192xa8aewof\/"
-    },
-    {
-        "B0754JNQBP",
-        "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/51MAMyC6GzL._SL75_.jpg",
-        "20440",
-        "https:\/\/www.amazon.com\/AMD-Threadripper-16-thread-Processor-YD190XA8AEWOF\/dp\/B0754JNQBP?psc=1&SubscriptionId=AKIAJXBTEUA4IXEASH6Q&tag=cgdirector-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B0754JNQBP",
-        "AMD Ryzen Threadripper 1900X (8-core\/16-thread) Desktop Processor (YD190XA8AEWOF)",
-        "2019-07-21T05:00:05Z",
-        "https:\/\/www.cgdirector.com\/recommends\/amd-ryzen-threadripper-1900x-8-core-16-thread-desktop-processor-yd190xa8aewof\/"
-    },
-    {
-        "B07B428M7F",
-        "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/41N0skoNQBL._SL75_.jpg",
-        "25189",
-        "https:\/\/www.amazon.com\/AMD-Ryzen-Processor-Wraith-Cooler\/dp\/B07B428M7F?psc=1&SubscriptionId=AKIAJXBTEUA4IXEASH6Q&tag=cgdirector-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07B428M7F",
-        "AMD Ryzen 7 2700X Processor with Wraith Prism LED Cooler - YD270XBGAFBOX",
-        "2019-07-21T05:00:05Z",
-        "https:\/\/www.cgdirector.com\/recommends\/amd-ryzen-7-2700x-processor-with-wraith-prism-led-cooler-yd270xbgafbox\/"
-    },
-    {
-        "B07B41717Z",
-        "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/41Q9h-k2BkL._SL75_.jpg",
-        "19848",
-        "https:\/\/www.amazon.com\/AMD-Ryzen-Processor-Wraith-Cooler\/dp\/B07B41717Z?psc=1&SubscriptionId=AKIAJXBTEUA4IXEASH6Q&tag=cgdirector-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07B41717Z",
-        "AMD Ryzen 7 2700 Processor with Wraith Spire LED Cooler - YD2700BBAFBOX",
-        "2019-07-21T05:00:06Z",
-        "https:\/\/www.cgdirector.com\/recommends\/amd-ryzen-7-2700-processor-with-wraith-spire-led-cooler-yd2700bbafbox\/"
-    },
-    {
-        "B07B428V2L",
-        "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/41OZu6uDTCL._SL75_.jpg",
-        "14999",
-        "https:\/\/www.amazon.com\/AMD-Ryzen-Processor-Wraith-Cooler\/dp\/B07B428V2L?psc=1&SubscriptionId=AKIAJXBTEUA4IXEASH6Q&tag=cgdirector-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07B428V2L",
-        "AMD Ryzen 5 2600X Processor with Wraith Spire Cooler - YD260XBCAFBOX",
-        "2019-07-21T05:00:06Z",
-        "https:\/\/www.cgdirector.com\/recommends\/amd-ryzen-5-2600x-processor-with-wraith-spire-cooler-yd260xbcafbox\/"
-    },
-    {
-        "B07B41WS48",
-        "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/41OZu6uDTCL._SL75_.jpg",
-        "12671",
-        "https:\/\/www.amazon.com\/AMD-Processor-Wraith-Stealth-Cooler\/dp\/B07B41WS48?psc=1&SubscriptionId=AKIAJXBTEUA4IXEASH6Q&tag=cgdirector-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07B41WS48",
-        "AMD Ryzen 5 2600 Processor with Wraith Stealth Cooler - YD2600BBAFBOX",
-        "2019-07-21T05:00:07Z",
-        "https:\/\/www.cgdirector.com\/recommends\/amd-ryzen-5-2600-processor-with-wraith-stealth-cooler-yd2600bbafbox\/"
-    },
-    {
-        "B06XKWT8J4",
-        "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/31YLAELiLZL._SL75_.jpg",
-        "13499",
-        "https:\/\/www.amazon.com\/AMD-Processor-Wraith-Stealth-YD1400BBAEBOX\/dp\/B06XKWT8J4?psc=1&SubscriptionId=AKIAJXBTEUA4IXEASH6Q&tag=cgdirector-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B06XKWT8J4",
-        "AMD Ryzen 5 1400 Processor with Wraith Stealth Cooler (YD1400BBAEBOX)",
-        "2019-07-21T05:00:07Z",
-        "https:\/\/www.cgdirector.com\/recommends\/amd-ryzen-5-1400-processor-with-wraith-stealth-cooler-yd1400bbaebox\/"
-    },
-    {
-        "B075XRYMDR",
-        "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/41NTcG-1lbL._SL75_.jpg",
-        "178767",
-        "https:\/\/www.amazon.com\/Intel-Core-i9-7980XE-Processors-BX80673I97980X\/dp\/B075XRYMDR?psc=1&SubscriptionId=AKIAJXBTEUA4IXEASH6Q&tag=cgdirector-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B075XRYMDR",
-        "Intel Core i9-7980XE Processors BX80673I97980X",
-        "2019-06-05T05:00:09Z",
-        "https:\/\/www.cgdirector.com\/recommends\/intel-core-i9-7980xe-processors-bx80673i97980x\/"
-    },
-    {
-        "B075XRYMDS",
-        "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/51V2PWtMutL._SL75_.jpg",
-        "148277",
-        "https:\/\/www.amazon.com\/Intel-i9-7960X-Processor-Unlocked-LGA2066\/dp\/B075XRYMDS?psc=1&SubscriptionId=AKIAJXBTEUA4IXEASH6Q&tag=cgdirector-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B075XRYMDS",
-        "Intel Core i9-7960X X-Series Processor 16 Cores up to 4.2 GHz Turbo Unlocked LGA2066 X299 Series 165W",
-        "2019-06-05T05:00:10Z",
-        "https:\/\/www.cgdirector.com\/recommends\/intel-core-i9-7960x-x-series-processor-16-cores-up-to-4-2-ghz-turbo-unlocked-lga2066-x299-series-165w\/"
-    },
-    {
-        "B075ZP87QP",
-        "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/51gHr-NJgML._SL75_.jpg",
-        "129348",
-        "https:\/\/www.amazon.com\/Intel-i9-7940X-Processor-Unlocked-LGA2066\/dp\/B075ZP87QP?psc=1&SubscriptionId=AKIAJXBTEUA4IXEASH6Q&tag=cgdirector-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B075ZP87QP",
-        "Intel Core i9-7940X X-Series Processor 14 Cores up to 4.3 GHz Turbo Unlocked LGA2066 X299 Series 165W",
-        "2019-06-05T05:00:10Z",
-        "https:\/\/www.cgdirector.com\/recommends\/intel-core-i9-7940x-x-series-processor-14-cores-up-to-4-3-ghz-turbo-unlocked-lga2066-x299-series-165w\/"
-    },
-    {
-        "B0756L5T93",
-        "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/51KFxNGHrAL._SL75_.jpg",
-        "99999",
-        "https:\/\/www.amazon.com\/Intel-i9-7920X-Processor-Unlocked-LGA2066\/dp\/B0756L5T93?psc=1&SubscriptionId=AKIAJXBTEUA4IXEASH6Q&tag=cgdirector-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B0756L5T93",
-        "Intel Core i9-7920X X-Series Processor 12 Cores up to 4.3 GHz Turbo Unlocked LGA2066 X299 Series 140W",
-        "2019-06-05T05:00:11Z",
-        "https:\/\/www.cgdirector.com\/recommends\/intel-core-i9-7920x-x-series-processor-12-cores-up-to-4-3-ghz-turbo-unlocked-lga2066-x299-series-140w\/"
-    },
-    {
-        "B072KTSCCS",
-        "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/51-ce8HWCLL._SL75_.jpg",
-        "95999",
-        "https:\/\/www.amazon.com\/Intel-i9-7900X-Processor-Unlocked-LGA2066\/dp\/B072KTSCCS?psc=1&SubscriptionId=AKIAJXBTEUA4IXEASH6Q&tag=cgdirector-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B072KTSCCS",
-        "Intel Core i9-7900X X-Series Processor 10 Cores up to 4.3 GHz Turbo Unlocked LGA2066 X299 Series 140W",
-        "2019-06-05T05:00:11Z",
-        "https:\/\/www.cgdirector.com\/recommends\/intel-core-i9-7900x-x-series-processor-10-cores-up-to-4-3-ghz-turbo-unlocked-lga2066-x299-series-140w\/"
-    },
-    {
-        "B005404P9I",
-        "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/41EDFtP5hpL._SL75_.jpg",
-        "48499",
-        "https:\/\/www.amazon.com\/Intel-i9-9900K-Desktop-Processor-unlocked\/dp\/B005404P9I?psc=1&SubscriptionId=AKIAJXBTEUA4IXEASH6Q&tag=cgdirector-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B005404P9I",
-        "Intel Core i9-9900K Desktop Processor 8 Cores up to 5.0 GHz Turbo unlocked LGA1151 300 Series 95W",
-        "2019-07-21T05:00:13Z",
-        "https:\/\/www.cgdirector.com\/recommends\/intel-core-i9-9900k\/"
-    },
-    {
-        "B07HHN6KBZ",
-        "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/416CgttkcpL._SL75_.jpg",
-        "36200",
-        "https:\/\/www.amazon.com\/Intel-i7-9700K-Desktop-Processor-Unlocked\/dp\/B07HHN6KBZ?psc=1&SubscriptionId=AKIAJXBTEUA4IXEASH6Q&tag=cgdirector-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07HHN6KBZ",
-        "Intel Core i7-9700K Desktop Processor 8 Cores up to 4.9 GHz Turbo Unlocked LGA1151 300 Series 95W",
-        "2019-07-21T05:00:14Z",
-        "https:\/\/www.cgdirector.com\/recommends\/intel-core-i7-9700k-desktop-processor-8-cores-up-to-4-9-ghz-turbo-unlocked-lga1151-300-series-95w\/"
-    },
-    {
-        "B07HHLX1R8",
-        "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/41-RTosUoHL._SL75_.jpg",
-        "24700",
-        "https:\/\/www.amazon.com\/Intel-i5-9600K-Desktop-Processor-Unlocked\/dp\/B07HHLX1R8?psc=1&SubscriptionId=AKIAJXBTEUA4IXEASH6Q&tag=cgdirector-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07HHLX1R8",
-        "Intel Core i5-9600K Desktop Processor 6 Cores up to 4.6 GHz Turbo Unlocked LGA1151 300 Series 95W",
-        "2019-07-21T05:00:15Z",
-        "https:\/\/www.cgdirector.com\/recommends\/intel-core-i5-9600k-desktop-processor-6-cores-up-to-4-6-ghz-turbo-unlocked-lga1151-300-series-95w\/"
-    },
-    {
-        "B07598VZR8",
-        "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/41WTiL%2BnHjL._SL75_.jpg",
-        "34999",
-        "https:\/\/www.amazon.com\/Intel-i7-8700K-Desktop-Processor-Unlocked\/dp\/B07598VZR8?psc=1&SubscriptionId=AKIAJXBTEUA4IXEASH6Q&tag=cgdirector-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07598VZR8",
-        "Intel Core i7-8700K Desktop Processor 6 Cores up to 4.7GHz Turbo Unlocked LGA1151 300 Series 95W",
-        "2019-07-21T05:00:15Z",
-        "https:\/\/www.cgdirector.com\/recommends\/intel-core-i7-8700k-desktop-processor-6-cores-up-to-4-7ghz-turbo-unlocked-lga1151-300-series-95w\/"
-    },
-    {
-        "B07598HLB4",
-        "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/41wcBEPMK1L._SL75_.jpg",
-        "29499",
-        "https:\/\/www.amazon.com\/Intel-i7-8700-Desktop-Processor-Cores\/dp\/B07598HLB4?psc=1&SubscriptionId=AKIAJXBTEUA4IXEASH6Q&tag=cgdirector-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07598HLB4",
-        "Intel Core i7-8700 Desktop Processor 6 Cores up to 4.6 GHz LGA 1151 300 Series 65W",
-        "2019-07-21T05:00:16Z",
-        "https:\/\/www.cgdirector.com\/recommends\/intel-core-i7-8700-desktop-processor-6-cores-up-to-4-6-ghz-lga-1151-300-series-65w\/"
-    }
-]
+    {"cpu_amazon": "B06XNRQHG4", "cpu_amazon_price": "109.99",
+    "cpu_bench1": "1147",
+    "cpu_bench1g": "0",
+    "cpu_bench2": "0",
+    "cpu_bench2g": "41",
+    "cpu_bench3": "0",
+    "cpu_bench3g": "0",
+    "cpu_bench3i": "0",
+    "cpu_bench4": "0",
+    "cpu_bench4g": "50",
+    "cpu_bench5": "5432",
+    "cpu_bench5g": "41",
+    "cpu_brand": "AMD",
+    "cpu_budget": "1500",
+    "cpu_budget_min": "0",
+    "cpu_clock": "3.6",
+    "cpu_cooler": "Yes",
+    "cpu_cstate": "Yes",
+    "cpu_fps_g": "88",
+    "cpu_fps_s": "31",
+    "cpu_generation": "Zen ",
+    "cpu_id": "41",
+    "cpu_igpu": "No",
+    "cpu_img": "https://images-na.ssl-images-amazon.com/images/I/41yI%2BvRADXL._SL160_.jpg",
+    "cpu_msrp": "0.00",
+    "cpu_newegg": "N82E16819113435",
+    "cpu_newegg_price": "0.00",
+    "cpu_oc": "Yes",
+    "cpu_platform": "AM4",
+    "cpu_price": "109.99",
+    "cpu_status": "Yes",
+    "cpu_tdp": "65",
+    "cpu_title": "AMD Ryzen 5 1600",
+    "dd_amazon": "B00E1C93L0",
+    "dd_amazon_price": "28.99",
+    "dd_brand": "Western Digital",
+    "dd_budget": "0",
+    "dd_budget_min": "0",
+    "dd_id": "15",
+    "dd_img": "https://images-na.ssl-images-amazon.com/images/I/31jnHBzXIBL._SL160_.jpg",
+    "dd_iops": "750",
+    "dd_msrp": "49.00",
+    "dd_newegg": "N82E16822236811",
+    "dd_newegg_price": "0.00",
+    "dd_price": "28.99",
+    "dd_read": "180",
+    "dd_score": "76",
+    "dd_size": "500",
+    "dd_status": "Yes",
+    "dd_title": " WD Blue WD5000AZLX 500GB 7200 RPM 32MB Cache SATA 6.0Gb/s 3.5",
+    "dd_type": "HDD",
+    "dd_write": "160"}]
 }
