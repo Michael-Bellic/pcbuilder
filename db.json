@@ -392,29 +392,7 @@
          "gpu_img":         "https://images-na.ssl-images-amazon.com/images/I/5199wyB%2BofL._SL160_.jpg",
          "gpu_specs":"1830 MHz TuringNRT GPU with 6 GB vRAM"
       }
-   ],
-   "laptop":{
-      "laptop_id":"41",
-      "laptop_brand":"HP",
-      "laptop_title":"HP Laptop - 14z Best Value|Black|2.5 GHz AMD CPU|8 GB DDR4|HD Display|Windows 10 Home 64",
-      "laptop_cpu":"AMD",
-      "laptop_price":"650.00",
-      "laptop_size":"14.0",
-      "laptop_res":"HD",
-      "laptop_image":      "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05984739.png",
-      "laptop_link":      "https://www.awin1.com/pclick.php?p=22664296991&a=531227&m=7168",
-      "laptop_status":"Yes"
-   },
-   "desktop":{
-      "desktop_id":"12",
-      "desktop_brand":"HP",
-      "desktop_title":"HP ENVY Desktop - 795-0030qd|Intel CPU|1 TB HDD|8 GB DDR4|Windows 10 Pro",
-      "desktop_cpu":"Intel",
-      "desktop_price":"640.00",
-      "desktop_image":      "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Assl-product-images.www8-hp.com%2Fdigmedialib%2Fprodimg%2Flowres%2Fc05988071.png&feedId=25245&k=d9cd660bf932b12990087a072b48707fb6d79e64",
-      "desktop_link":      "https://www.awin1.com/pclick.php?p=22069642663&a=531227&m=7168",
-      "desktop_status":"Yes"
-   }
+   ]
  }
 ]
 }
