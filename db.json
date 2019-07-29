@@ -144,5 +144,31 @@
    "dd_amazon":"B00E1C93L0",
    "dd_newegg":"N82E16822236811",
    "dd_img":   "https://images-na.ssl-images-amazon.com/images/I/31jnHBzXIBL._SL160_.jpg"
- }]
+    "mobos":[
+      {
+         "mobo_id":"15",
+         "mobo_title":"ASUS PRIME B350-PLUS AM4 AMD B350 SATA 6Gb/s USB 3.1 USB 3.0 HDMI ATX Motherboards",
+         "mobo_brand":"Asus",
+         "mobo_generation":"Zen",
+         "mobo_platform":"AM4",
+         "mobo_tdp":"110",
+         "mobo_m2":"Yes",
+         "mobo_oc":"No",
+         "mobo_rgb":"No",
+         "mobo_score":"0.0",
+         "mobo_status":"Yes",
+         "mobo_budget_min":"750",
+         "mobo_budget":"1150",
+         "mobo_msrp":"90.00",
+         "mobo_price":"74.99",
+         "mobo_amazon_price":"74.99",
+         "mobo_newegg_price":"0.00",
+         "mobo_amazon":"B06X416NJ1",
+         "mobo_newegg":"N82E16813132965",
+         "mobo_img":         "https://images-na.ssl-images-amazon.com/images/I/51DaBqMUR0L._SL160_.jpg",
+         "mobo_specs":"AM4 platform motherboard"
+      }
+   ]
+ }
+                ]
 }
